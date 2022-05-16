@@ -1,0 +1,2 @@
+## generated
+gitattributes sample
