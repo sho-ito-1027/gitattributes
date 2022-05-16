@@ -1,0 +1,3 @@
+files/documentation.xml linguist-documentation
+files/generated.md linguist-generated
+files/vendored.yml linguist-vendored
